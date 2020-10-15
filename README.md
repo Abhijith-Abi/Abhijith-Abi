@@ -1,5 +1,5 @@
 ### Hi there, I'm Abhijith 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/Abhijith-Abi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhijith-Abi&screen_name=Abhijith-Abi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Abhijith-Abi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Abhijith_Abi_?s=08)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
