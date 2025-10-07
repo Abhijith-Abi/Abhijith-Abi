@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://camo.githubusercontent.com/a42b936d0f65d6c8e31a0e1c9d92e59d57a974b10b03657373f751412530d922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f48486c473145576a445963564f52614b642f67697068792e676970" width="60px" alt="Waving Hand"> 
+  <span style="font-size: 40px;">👋</span>
   <h1>Hello, Code Knights! I'm Abhijith P A</h1>
   
   ### **🌟 Software Engineer | UI Warrior | Next.js Enthusiast**
