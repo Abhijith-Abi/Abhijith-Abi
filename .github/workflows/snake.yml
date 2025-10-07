@@ -1,0 +1,32 @@
+# snake.yml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 1 AM UTC every day
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Checks out your repository code
+      - uses: actions/checkout@v4
+      
+      # Generates the animated snake SVG
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Abhijith-Abi
+          # Replace 'output' with the branch where the SVG will be saved
+          outputs: dist/github-contribution-grid-snake.svg
+          
+      # Deploys the generated SVG file to the specified branch
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # The branch where your README is currently pointing
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
