@@ -1,27 +1,24 @@
 <div align="center">
-  <img src="https://via.placeholder.com/900x200/20232A/00D9F5?text=ABHIJITH'S+FRONTEND+DOMINION" alt="Header Banner" width="100%"/>
-</div>
 
-<div align="center">
-  <h1>👋 Hello, Code Knights! I'm Abhijith P A</h1>
+  <img src="https://raw.githubusercontent.com/Abhijith-Abi/Abhijith-Abi/main/assets/wave.gif" width="60px"> 
+  <h1>Hello, Code Knights! I'm Abhijith P A</h1>
   
   ### **🌟 Software Engineer | UI Warrior | Next.js Enthusiast**
+  <p>I craft interactive, high-performance, and delightful web experiences.</p>
 </div>
 
 ---
 
-## 💡 Status & Vibe
-
-A snapshot of what keeps the gears turning:
+## 🚀 Status Update
 
 | Key Focus | Status | Detail |
 | :--- | :--- | :--- |
-| **Current Mission** | 🏢 **Software Engineer** @ **Steyp** | Crafting **interactive**, **performant** web experiences. |
-| **Main Weapon** | 💻 Next.js, React, TypeScript | Building modern, **server-rendered** applications. |
-| **Personal Quest** | ✨ UX & Micro-Interactions | Always chasing that perfect **user experience**. |
-| **Location** | 🇮🇳 Planet Earth, Kerala | Based in the tropical south of India. |
+| **Currently At** | 🏢 **Software Engineer** @ **Steyp** | Focused on **Next.js** and scaling frontend architecture. |
+| **Building With** | 💻 Next.js, React, TypeScript | My core stack for modern web development. |
+| **Obsession** | ✨ UX & Micro-Interactions | Chasing that perfect **user experience** and fluid animation. |
+| **Location** | 🇮🇳 Kerala, India | Coding from the coastal south. |
 
-> 🎨 **Quote:** "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
+> 🎨 **Frontend Philosophy:** "Design is how it works. Code is how it sings."
 
 ---
 
@@ -31,42 +28,29 @@ I specialize in the frontend ecosystem, leveraging tools that prioritize speed, 
 
 ### **Core Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFB800" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFB800" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
 </p>
 
 ### **Styling & Animation**
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### **Tools & Dev Environment**
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Adventures (Projects)
-
-These are some of my most impactful or fun coding explorations.
-
-- **🤖 [AI Gemini App](https://github.com/Abhijith-Abi/ai-gemini)**
-  > A modern, responsive conversational application utilizing the latest Gemini AI API.
-- **🛒 [Animated Shopping Cart](https://github.com/Abhijith-Abi/shopping-cart)**
-  > Focuses on delightful user feedback through detailed component animations using **Framer Motion**.
-- **🌐 [Portfolio Site](https://github.com/Abhijith-Abi/abhijith.tech)**
-  > The codebase for my professional identity. Built for speed and SEO.
-
----
-
-## 📈 Dev Metrics
+## 📊 Dev Metrics & Contributions
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-Abi&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=FFB800&icon_color=00D9F5" 
@@ -80,7 +64,8 @@ These are some of my most impactful or fun coding explorations.
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Abhijith-Abi/Abhijith-Abi/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <h3>My 2024 GitHub Contribution Snake 🐍</h3>
+  <img src="https://raw.githubusercontent.com/Abhijith-Abi/Abhijith-Abi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
