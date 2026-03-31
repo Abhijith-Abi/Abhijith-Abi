@@ -1,95 +1,87 @@
 <div align="center">
-
-  <span style="font-size: 40px;">👋</span>
-  <h1>Hello, Code Knights! I'm Abhijith P A</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhijith%20P%20A&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
   
-  ### **🌟 Software Engineer | UI Warrior | Next.js Enthusiast**
-  <p>I craft interactive, high-performance, and delightful web experiences.</p>
+  <h1>🚀 Senior Front-End Developer | UI Engineer</h1>
+  
+  <p><i>"I craft clean, modern web experiences that feel fast, polished, and reliable."</i></p>
+
+  <p>
+    <a href="https://abisolutions.online" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-abisolutions.online-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/abhijith-pa/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Abhijith%20P%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🚀 Status Update
+### ⚡ Quick Status
 
-| Key Focus | Status | Detail |
-| :--- | :--- | :--- |
-| **Currently At** | 🏢 **Software Engineer** @ **Steyp** | Focused on **Next.js** and scaling frontend architecture. |
-| **Building With** | 💻 Next.js, React, TypeScript | My core stack for modern web development. |
-| **Obsession** | ✨ UX & Micro-Interactions | Chasing that perfect **user experience** and fluid animation. |
-| **Location** | 🇮🇳 Kerala, India | Coding from the coastal south. |
-
-> 🎨 **Frontend Philosophy:** "Design is how it works. Code is how it sings."
+- 🏢 **Currently At:** **Senior Front-End Developer** @ [AlgoBiz Innovations LLP](https://linkedin.com/company/algobiz-innovations)
+- 📍 **Based In:** Kochi, Kerala, India
+- 🛠️ **Building With:** Next.js, React, TypeScript, and Tailwind CSS
+- 🎯 **Focus:** High-performance web applications and fluid UI/UX interactions
 
 ---
 
-## 🛠️ The Tech Forge (My Arsenal)
+### 🛠️ The Tech Forge
 
-I specialize in the frontend ecosystem, leveraging tools that prioritize speed, scale, and developer happiness.
-
-### **Core Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFB800" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-</p>
-
-### **Styling & Animation**
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### **Tools & Dev Environment**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react-query&logoColor=white) |
+| **Backend & Tools** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) |
 
 ---
 
-## 📊 Dev Metrics & Contributions
+### 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-Abi&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=FFB800&icon_color=00D9F5" 
-       alt="Abhijith's GitHub Stats" 
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **HOSFACE** | Healthcare Infrastructure & Clinic Setup Platform | Next.js, Tailwind, React | [Explore](https://www.hosface.com/) |
+| **STEYP** | Real-time Coding Learning Platform | React, Styled Components, Redux | [Explore](https://steyp.com/) |
+| **TEGAIN** | Community Hub & Recruitment Platform | Next.js, Tailwind, Zustand | [Explore](https://tegain.com/) |
+| **SOMANS** | Travel Management & HR Automation | Next.js, Tailwind, Zustand | [Explore](https://www.somansleisuretours.com/) |
+| **ERP System** | Inventory & HR Management Solution | Next.js, Tailwind, Zustand | [Explore](https://erp.talrop.com/) |
+
+</div>
+
+---
+
+### 📈 Metrics & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-Abi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0070f3&icon_color=00D9F5" 
+       alt="GitHub Stats" 
        style="margin-bottom: 15px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-Abi&layout=compact&theme=radical&hide_border=true&title_color=FFB800&icon_color=00D9F5&langs_count=6" 
-       alt="Abhijith's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-Abi&layout=compact&theme=tokyonight&hide_border=true&title_color=0070f3&icon_color=00D9F5&langs_count=6" 
+       alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>My 2024 GitHub Contribution Snake 🐍</h3>
-  <img src="https://raw.githubusercontent.com/Abhijith-Abi/Abhijith-Abi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <h3>The 🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/Abhijith-Abi/Abhijith-Abi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-Get in touch! I'm always open to discussing new tech, collaborations, and frontend wizardry.
+### 📮 Let's Connect
 
 <p align="center">
-  <a href="http://abhijith.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-abhijith.tech-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/abhijith-abi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhijith%20P%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:abhijithpa7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhijithpa7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/Abhijith_Abi_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@Abhijith_Abi_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:abhijithpa7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Twitter-@Abhijith_Abi_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
-<br/>
 <p align="center">
-  *Made with 💖, fueled by ☕, and powered by code.*
+  <i>Made with 💖 and ☕ by Abhijith P A</i>
 </p>
