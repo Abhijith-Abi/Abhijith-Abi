@@ -54,11 +54,11 @@
 ### 📈 Metrics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-Abi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0070f3&icon_color=00D9F5" 
+  <img src="https://github-stats.vercel.app/api?username=abhijith-abi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0070f3&icon_color=00D9F5" 
        alt="GitHub Stats" 
        style="margin-bottom: 15px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-Abi&layout=compact&theme=tokyonight&hide_border=true&title_color=0070f3&icon_color=00D9F5&langs_count=6" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhijith-abi&theme=tokyonight" 
        alt="Top Languages" />
 </div>
 
