@@ -123,7 +123,7 @@ Previously associated with organizations including **Steyp**, **Talrop**, **Tega
 * Website: https://abisolutions.online
 * LinkedIn: https://www.linkedin.com/in/abhijith-pa/
 * GitHub: https://github.com/Abhijith-Abi
-* Email: [abhijithpa7@gmail.com](mailto:abhijithpa7@gmail.com)
+* Email: [abhijithpa7@gmail.com](mailto:abhijithabhijith1999@gmail.com)
 
 ---
 
