@@ -2,7 +2,7 @@
 <!-- 🚀 HEADER BANNER & TYPING ANIMATION                             -->
 <!-- ================================================================= -->
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyberpunk City Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/fallout_grayscale%20(1).gif" alt="Developer Workspace Banner" />
   
   <br /><br />
 
@@ -22,7 +22,7 @@
 <!-- ================================================================= -->
 ## 💫 About Me
 
-<img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer Coding" width="370" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/transparent_gitgif.gif" />
 
 <p>
 <a href="https://github.com/Abhijith-Abi">
