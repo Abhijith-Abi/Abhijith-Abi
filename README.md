@@ -2,10 +2,12 @@
 <!-- 🚀 HEADER BANNER & TYPING ANIMATION                             -->
 <!-- ================================================================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:0F172A,100:2563EB&height=220&section=header&text=Abhijith%20P%20A&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img width="100%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyberpunk City Banner" />
   
+  <br /><br />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Abhijith+P+A+here+🔥;Founder+%40+AlgoBiz+🚀;Full+Stack+Developer+%26+Cloud+Enthusiast+💻;Building+Scalable+SaaS+%26+AI+Systems+⚡" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Abhijith+P+A+here+!;Founder+%40+AlgoBiz;Full+Stack+Developer+%26+Cloud+Enthusiast;Building+Scalable+SaaS+%26+AI+Systems" alt="Typing Animation" />
   </a>
 
   <h2>Namaste 🙏 I'm Abhijith P A</h2>
@@ -20,50 +22,41 @@
 <!-- ================================================================= -->
 ## 💫 About Me
 
-<div align="left">
-  <a href="https://github.com/Abhijith-Abi">
-    <img src="https://komarev.com/ghpvc/?username=Abhijith-Abi&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
-  </a>
-</div>
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<p>
+<a href="https://github.com/Abhijith-Abi">
+  <img src="https://komarev.com/ghpvc/?username=Abhijith-Abi&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+</a>
+</p>
+
+* 🌟 **Founder of AlgoBiz** & Full Stack Developer from Kerala, India.
+* 🔭 Specializing in scalable **SaaS Platforms, ERP Systems, AI-powered Applications & FinTech Products**.
+* 💻 Architecting high-performance web systems using **React.js, Next.js, TypeScript, Django & PostgreSQL**.
+* ☁️ Deploying and managing cloud infrastructure on **AWS (EC2, S3), Docker, Nginx & Linux**.
+* 🏢 Previously associated with **Steyp**, **Talrop**, **Tegain**, and fast-paced startup ecosystems.
+* 💬 Ask me about **Full Stack Architecture, SaaS MVPs, Django REST APIs & Scalable Frontends**.
+* ⚡ Passionate about **Artificial Intelligence, Business Automation & Modern UI/UX**.
+* 🎯 Mission: *Transforming ideas into resilient, production-ready digital products that solve real business problems.*
 
 <br />
 
-<table border="0">
-  <tr>
-    <td valign="top" width="60%">
-      <p>🌟 <strong>Founder of AlgoBiz</strong> & Full Stack Developer from Kerala, India.</p>
-      <p>🔭 Specializing in scalable <strong>SaaS Platforms, ERP Systems, AI-powered Applications & FinTech Products</strong>.</p>
-      <p>💻 Architecting high-performance web systems using <strong>React.js, Next.js, TypeScript, Django & PostgreSQL</strong>.</p>
-      <p>☁️ Deploying and managing cloud infrastructure on <strong>AWS (EC2, S3), Docker, Nginx & Linux</strong>.</p>
-      <p>🏢 Previously associated with <strong>Steyp</strong>, <strong>Talrop</strong>, <strong>Tegain</strong>, and fast-paced startup ecosystems.</p>
-      <p>💬 Ask me about <strong>Full Stack Architecture, SaaS MVPs, Django REST APIs & Scalable Frontends</strong>.</p>
-      <p>⚡ Passionate about <strong>Artificial Intelligence, Business Automation & Modern UI/UX</strong>.</p>
-      <p>🎯 Mission: <em>Transforming ideas into resilient, production-ready digital products that solve real business problems.</em></p>
-      
-      <br />
-      
-      <div align="left">
-        <strong>🌟 Follow Me on:</strong>
-        <br /><br />
-        <a href="https://abisolutions.online" target="_blank">
-          <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-        </a>
-        <a href="https://www.linkedin.com/in/abhijith-pa/" target="_blank">
-          <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://github.com/Abhijith-Abi" target="_blank">
-          <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="mailto:abhijithpa7@gmail.com">
-          <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </div>
-    </td>
-    <td valign="top" align="center" width="40%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer Coding Animation" />
-    </td>
-  </tr>
-</table>
+### 🌟 Connect With Me:
+
+<p>
+  <a href="https://abisolutions.online" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhijith-pa/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Abhijith-Abi" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:abhijithpa7@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <br />
 
@@ -87,12 +80,12 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhijith-Abi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Abhijith's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Abhijith-Abi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Abhijith's GitHub Stats" />
     &nbsp;
     <img src="https://streak-stats.demolab.com/?user=Abhijith-Abi&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b26&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhijith-Abi&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhijith-Abi&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Most Used Languages" />
   </p>
 </div>
 
@@ -101,7 +94,7 @@
 <!-- ================================================================= -->
 <!-- 💻 TECH STACK BADGES                                              -->
 <!-- ================================================================= -->
-<h3 align="center">💻 Tech Stack:</h3>
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
   <!-- Frontend -->
@@ -139,41 +132,28 @@
 <br />
 
 <!-- ================================================================= -->
-<!-- ⭐ FEATURED PROJECTS & 🔥 RANDOM DEV QUOTE                         -->
+<!-- ⭐ FEATURED PROJECTS                                              -->
 <!-- ================================================================= -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>⭐ Featured Projects</h4>
-      <div align="left">
-        <ul>
-          <li><strong>HOSFACE:</strong> Healthcare Infrastructure & Clinic Platform</li>
-          <li><strong>Finwage:</strong> Automated Payroll & HR Management Platform</li>
-          <li><strong>Tegain:</strong> Community & Recruitment Network</li>
-          <li><strong>STEYP:</strong> Learning & Career Development Platform</li>
-          <li><strong>ERP System:</strong> Enterprise Resource Planning Suite</li>
-          <li><strong>Somans Tours:</strong> Travel Logistics & HR Automation</li>
-        </ul>
-      </div>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>🔥 Random Dev Quote</h4>
-      <a href="https://github.com/piyushsuthar/quotes-github-readme">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h3 align="center">⭐ Featured Projects</h3>
+
+| Project | Description | Core Stack |
+| :--- | :--- | :--- |
+| **HOSFACE** | Healthcare Infrastructure & Clinic Setup Platform | Next.js, Django, PostgreSQL |
+| **Finwage** | Automated Payroll & HR Management Platform | React.js, Django REST, Celery |
+| **Tegain** | Community & Recruitment Network Platform | Next.js, TypeScript, AWS |
+| **STEYP** | Learning & Career Development Platform | React, Tailwind CSS, Redux |
+| **ERP System** | Enterprise Resource Planning Suite | Django, PostgreSQL, Docker |
+| **Somans Leisure Tours** | Travel Logistics & HR Automation Platform | React, Python, Cloud Infrastructure |
 
 <br />
 
 <!-- ================================================================= -->
-<!-- ☕ SUPPORT ME                                                     -->
+<!-- 🔥 RANDOM DEV QUOTE                                               -->
 <!-- ================================================================= -->
 <div align="center">
-  <h3>Support Me ☕</h3>
-  <a href="https://www.buymeacoffee.com/abhijithpa" target="_blank">
-    <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <h3>🔥 Random Dev Quote</h3>
+  <a href="https://github.com/piyushsuthar/quotes-github-readme">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   </a>
 </div>
 
@@ -183,7 +163,7 @@
 <!-- 🏙️ FOOTER BANNER                                                  -->
 <!-- ================================================================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=120&section=footer" alt="Footer Skyline" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=100&section=footer" alt="Footer Skyline" />
   <p align="center">
     Made with ❤️ by <strong>Abhijith P A</strong>
   </p>
