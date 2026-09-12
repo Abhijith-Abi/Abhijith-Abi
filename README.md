@@ -7,12 +7,12 @@
   <br /><br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Abhijith+P+A+here+!;Founder+%40+AlgoBiz;Full+Stack+Developer+%26+Cloud+Enthusiast;Building+Scalable+SaaS+%26+AI+Systems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Abhijith+P+A+here+!;Founder+%40+Abi+Solutions;Full+Stack+Developer+%26+AI+Engineer;Building+Scalable+SaaS%2C+ERP+%26+AI+Products" alt="Typing Animation" />
   </a>
 
   <h2>Namaste 🙏 I'm Abhijith P A</h2>
-  <p><strong>Full Stack Developer • Founder @ AlgoBiz • React.js • Next.js • Django • AWS</strong></p>
-  <p><i>Building scalable SaaS platforms, ERP systems, AI-powered applications, and enterprise web solutions.</i></p>
+  <p><strong>Full Stack Developer & AI Engineer • Founder @ Abi Solutions • React.js • Next.js • Django • AWS</strong></p>
+  <p><i>4+ years shipping scalable ERP platforms, autonomous AI workflows, and modern cloud web applications.</i></p>
 </div>
 
 <br />
@@ -22,7 +22,7 @@
 <!-- ================================================================= -->
 ## 💫 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p>
 <a href="https://github.com/Abhijith-Abi">
@@ -30,22 +30,22 @@
 </a>
 </p>
 
-* 🌟 **Founder of AlgoBiz** & Full Stack Developer from Kerala, India.
-* 🔭 Specializing in scalable **SaaS Platforms, ERP Systems, AI-powered Applications & FinTech Products**.
-* 💻 Architecting high-performance web systems using **React.js, Next.js, TypeScript, Django & PostgreSQL**.
-* ☁️ Deploying and managing cloud infrastructure on **AWS (EC2, S3), Docker, Nginx & Linux**.
-* 🏢 Previously associated with **Steyp**, **Talrop**, **Tegain**, and fast-paced startup ecosystems.
-* 💬 Ask me about **Full Stack Architecture, SaaS MVPs, Django REST APIs & Scalable Frontends**.
-* ⚡ Passionate about **Artificial Intelligence, Business Automation & Modern UI/UX**.
-* 🎯 Mission: *Transforming ideas into resilient, production-ready digital products that solve real business problems.*
+* 🌟 **Founder of Abi Solutions** & Full Stack / AI Engineer based in Wayanad, Kerala, India.
+* 🔭 Specializing in scalable **Enterprise ERP Systems, Multi-Tenant SaaS, and Autonomous AI Workflows**.
+* 💻 Architecting high-performance web systems using **React 19, Next.js 14 App Router, TypeScript, Django & PostgreSQL**.
+* ☁️ Engineering robust DevOps pipelines with **AWS (EC2, S3), Docker, Nginx, Linux & GitHub Actions**.
+* 🤖 Building AI automations: **Custom AI Agents, RAG Vector Pipelines, and WhatsApp / Telegram Business Bot Engines**.
+* 🏢 Ex-**Steyp**, **Tegain**, **Ribos**, and fast-paced startup ecosystems.
+* 💬 Ask me about **Full Stack Architecture, Zero-Downtime Cloud Deployments, and AI Agent Workflows**.
+* 🎯 Mission: *Bridging elegant frontend aesthetics with industrial-grade full-stack architecture to drive real business growth.*
 
 <br />
 
 ### 🌟 Connect With Me:
 
 <p>
-  <a href="https://abisolutions.online" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="http://abisolutions.online/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-abisolutions.online-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abhijith-pa/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -53,7 +53,10 @@
   <a href="https://github.com/Abhijith-Abi" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:abhijithpa7@gmail.com">
+  <a href="https://wa.me/919961316468?text=Hi%20Abhijith,%20I%20would%20like%20to%20discuss%20a%20project" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:abhijithabhijith1999@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -109,7 +112,7 @@
 </p>
 
 <p align="center">
-  <!-- Backend -->
+  <!-- Backend & AI -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -132,18 +135,18 @@
 <br />
 
 <!-- ================================================================= -->
-<!-- ⭐ FEATURED PROJECTS                                              -->
+<!-- ⭐ FEATURED PRODUCTION PLATFORMS                                  -->
 <!-- ================================================================= -->
-<h3 align="center">⭐ Featured Projects</h3>
+<h3 align="center">⭐ Selected Production Builds</h3>
 
-| Project | Description | Core Stack |
+| Platform | Domain & Description | Tech Architecture |
 | :--- | :--- | :--- |
-| **HOSFACE** | Healthcare Infrastructure & Clinic Setup Platform | Next.js, Django, PostgreSQL |
-| **Finwage** | Automated Payroll & HR Management Platform | React.js, Django REST, Celery |
-| **Tegain** | Community & Recruitment Network Platform | Next.js, TypeScript, AWS |
-| **STEYP** | Learning & Career Development Platform | React, Tailwind CSS, Redux |
-| **ERP System** | Enterprise Resource Planning Suite | Django, PostgreSQL, Docker |
-| **Somans Leisure Tours** | Travel Logistics & HR Automation Platform | React, Python, Cloud Infrastructure |
+| **[Start Visa](https://www.startvisa.com/)** | AI Immigration & Visa Processing Platform with Automated Eligibility Engines | Next.js 14, TypeScript, Tailwind, PostgreSQL, Cloudflare |
+| **[House of Vaz](https://houseofvaz.com/)** | High-End Luxury Fashion & Retail Storefront with Sub-Second Checkout Speeds | Next.js, React, Tailwind CSS, Zustand, Stripe |
+| **[Yuva Paripalan](https://www.yuvaparipalan.com/)** | Social Empowerment Portal with Real-Time Engagement Telemetry & Community Hub | Next.js, TypeScript, Tailwind CSS, PostgreSQL, Vercel |
+| **[Palana Neuro Sync](https://palananeurosync.com/)** | Clinical Healthcare Portal Synchronizing Patient Telemetry & Neuro-Rehabilitation | React, Next.js, TypeScript, Tailwind CSS, REST APIs |
+| **HOSFACE** | Healthcare Infrastructure & Clinic Operations Platform | Next.js, Django, PostgreSQL, Docker |
+| **Finwage** | Enterprise Payroll & Automated HR Operations Suite | React.js, Django REST, Celery, Redis |
 
 <br />
 
@@ -165,6 +168,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=100&section=footer" alt="Footer Skyline" />
   <p align="center">
-    Made with ❤️ by <strong>Abhijith P A</strong>
+    Crafted with precision by <strong>Abhijith P A</strong> • Founder @ <strong>Abi Solutions</strong>
   </p>
 </div>
